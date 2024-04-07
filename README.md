@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedalijunaidsherazi" alt="syedalijunaidsherazi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/syed ali junaid" target="blank"><img src="https://img.shields.io/twitter/follow/syed ali junaid?logo=twitter&style=for-the-badge" alt="syed ali junaid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/syed ali junaid/" target="blank"><img src="https://img.shields.io/twitter/follow/syed ali junaid?logo=twitter&style=for-the-badge" alt="syed ali junaid" /></a> </p>
 
 - 📫 How to reach me **iamsyedalijunaid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syed ali junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed ali junaid" height="30" width="40" /></a>
+<a href="https://twitter.com/syed ali junaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/syedalijunaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed ali junaid" height="30" width="40" /></a>
-<a href="https://fb.com/syed ali junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ali junaid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/LvczMR7AJGbWuezk/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://instagram.com/syed ali junaid sherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed ali junaid sherazi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedalijunaidsherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedalijunaidsherazi" height="30" width="40" /></a>
 </p>
