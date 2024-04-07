@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/syedalijunaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/LvczMR7AJGbWuezk/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://www.instagram.com/syedalijunaid.85?igsh=Yjg5a3ZkcWxkNm9j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed ali junaid sherazi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syedalijunaidsherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedalijunaidsherazi" height="30" width="40" /></a>
+<a href="https://leetcode.com/Syed_Ali_Junaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedalijunaidsherazi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
