@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syed ali junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed ali junaid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed ali junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed ali junaid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syedalijunaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://fb.com/syed ali junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://instagram.com/syed ali junaid sherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed ali junaid sherazi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedalijunaidsherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedalijunaidsherazi" height="30" width="40" /></a>
