@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Junaid</h1>
 <h3 align="center">A passionate Full Stack Software Developer with a love for building innovative solutions and exploring new technologies.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SyedAliJunaidSherazi&label=Profile%20views&color=0e75b6&style=flat" alt="syedalijunaidsherazi" /> </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedAliJunaidSherazi&label=Profile%20views&color=0e75b6&style=flat" alt="syedalijunaidsherazi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedAliJunaidSherazi" alt="syedalijunaidsherazi" /></a> </p>
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedAliJunaidSherazi" alt="syedalijunaidsherazi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/syed ali junaid/" target="blank"><img src="https://img.shields.io/twitter/follow/syed ali junaid?logo=twitter&style=for-the-badge" alt="syed ali junaid" /></a> </p>
 
@@ -36,3 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAliJunaidSherazi&" alt="syedalijunaidsherazi" /></p>
 
 ![snake gif](https://github.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/blob/output/github-contribution-grid-snake.gif)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
