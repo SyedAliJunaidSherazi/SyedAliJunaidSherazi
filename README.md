@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedAliJunaidSherazi&label=Profile%20views&color=0e75b6&style=flat" alt="syedalijunaidsherazi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedAliJunaidSherazi" alt="syedalijunaidsherazi" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyedAliJunaidSherazi)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://twitter.com/syed ali junaid/" target="blank"><img src="https://img.shields.io/twitter/follow/syed ali junaid?logo=twitter&style=for-the-badge" alt="syed ali junaid" /></a> </p>
 
 - 📫 How to reach me **iamsyedalijunaid@gmail.com**
