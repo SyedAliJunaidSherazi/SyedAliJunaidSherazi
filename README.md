@@ -43,16 +43,53 @@
 </p>
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,python,dart,kotlin,express,js,ts,prisma,nx,lint,trpc" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedAliJunaidSherazi&show_icons=true&locale=en&layout=compact" alt="syedalijunaidsherazi" /></p>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,bootstrap,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,sqlite" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase,cloudinary" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,pycharm,figma,xd,idea,vscode,postman,linux,cypress,selenium,vercel" />
+  </a>
+</p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedAliJunaidSherazi&show_icons=true&locale=en" alt="syedalijunaidsherazi" /></p>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedAliJunaidSherazi&show_icons=true&locale=en&layout=compact" alt="syedalijunaidsherazi" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAliJunaidSherazi&" alt="syedalijunaidsherazi" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SyedAliJunaidSherazi&show_icons=true&locale=en" alt="syedalijunaidsherazi" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAliJunaidSherazi&" alt="syedalijunaidsherazi" /></p>
 
 ![snake gif](https://github.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/blob/output/github-contribution-grid-snake.gif)
 
