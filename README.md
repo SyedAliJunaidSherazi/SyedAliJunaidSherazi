@@ -32,9 +32,12 @@
 
 - 📫 How to reach me **iamsyedalijunaid@gmail.com**
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
 <a href="https://twitter.com/syed ali junaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/syedalijunaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed ali junaid" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/LvczMR7AJGbWuezk/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ali junaid" height="30" width="40" /></a>
@@ -42,7 +45,7 @@
 <a href="https://leetcode.com/Syed_Ali_Junaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedalijunaidsherazi" height="30" width="40" /></a>
 </p>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -90,6 +93,16 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SyedAliJunaidSherazi&show_icons=true&locale=en" alt="syedalijunaidsherazi" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAliJunaidSherazi&" alt="syedalijunaidsherazi" /></p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Syed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedAliJunaidSherazi&custom_title=SyedAliJunaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ![snake gif](https://github.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/blob/output/github-contribution-grid-snake.gif)
 
