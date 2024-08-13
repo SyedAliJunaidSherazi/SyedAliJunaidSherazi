@@ -11,7 +11,6 @@
 <br><br>
 
 - 👩‍💻 Junior Software Engineer at Mediatiz Foundation (Jul 2024 -  Present)
-- 
 - 💼 Junior Software Engineer at Early stage.co (Oct 2023 - Jan 2024)
 
 - 🔭 Web Developer Intern at Emumba.PVT (Aug 2022 - Oct 2022)
