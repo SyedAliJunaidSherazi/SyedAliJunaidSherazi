@@ -12,7 +12,7 @@
 
 - 👤 Jr. Software Engineer at Nexelus (Jan 2025 - Present)
 
-- 👩‍💻 Jr. Software Engineer at Mediatiz Foundation (Jul 2024 - Present)
+- 👩‍💻 Jr. Software Engineer at Mediatiz Foundation (Jul 2024 - Jan 2025)
 
 - 💼 Jr. Software Engineer at Early stage.co (Oct 2023 - Jan 2024)
 
