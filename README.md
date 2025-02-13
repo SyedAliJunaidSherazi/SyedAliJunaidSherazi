@@ -105,12 +105,16 @@
 
 <h3 align="left">Activity:</h3>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/output/github-contribution-grid-snake.svg" />
+</div>
+<br><br>
+
+
 ![Syed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedAliJunaidSherazi&custom_title=SyedAliJunaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 
-
-![Snake animation](https://raw.githubusercontent.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/output/github-contribution-grid-snake.svg)
 
 
 
