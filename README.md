@@ -110,10 +110,7 @@
 
 
 
-
-![snake gif](https://github.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/blob/output/github-contribution-grid-snake.gif)
-
-![Snake animation](https://raw.githubusercontent.com/SyedAliJunaidSherazi/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SyedAliJunaidSherazi/SyedAliJunaidSherazi/output/github-contribution-grid-snake.svg)
 
 
 
