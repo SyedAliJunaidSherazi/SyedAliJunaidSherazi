@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available in my provided public repositories.
 
-- 💬 Ask me about <strong style="color:white;">Flutter</strong>, <strong style="color:white;">Android</strong>, and <strong style="color:white;">MERN</strong>
+- 💬 Ask me about <strong style="color:white;">ASP.NET Core</strong>, <strong style="color:white;">Next</strong>, <strong style="color:white;">Nest</strong>, <strong style="color:white;">Flutter</strong>, <strong style="color:white;">Android</strong>, and <strong style="color:white;">MERN</strong>
 
 - 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/syedalijunaid/)
 
