@@ -99,7 +99,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SyedAliJunaidSherazi&show_icons=true&locale=en" alt="syedalijunaidsherazi" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAliJunaidSherazi&" alt="syedalijunaidsherazi" /></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
