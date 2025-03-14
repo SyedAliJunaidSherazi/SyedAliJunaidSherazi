@@ -16,7 +16,7 @@
 
 - 👩‍💻 Full Stack Engineer at Early stage.co (Oct 2023 - Jan 2024)
 
-- 🔭 Frontend Web Developer Intern at Emumba.PVT (Aug 2022 - Oct 2022)
+- 👩‍💻 Frontend Web Developer Intern at Emumba.PVT (Aug 2022 - Oct 2022)
 
 - 🎓 BSSE from Comsats University Islamabad (Sept 2020 - July 2024)
 
