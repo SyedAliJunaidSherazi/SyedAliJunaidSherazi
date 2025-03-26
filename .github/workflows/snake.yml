@@ -1,26 +1,26 @@
-# name: Generate Snake Contribution Grid
+name: Generate Snake Contribution Grid
 
-# on:
-#   schedule:
-#     - cron: "0 0 * * *"  # Runs daily at midnight UTC
-#   workflow_dispatch:  # Allows manual trigger
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
 
-# jobs:
-#   generate-snake:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout Repository
-#         uses: actions/checkout@v3
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-#       - name: Generate Snake Contribution Grid
-#         uses: Platane/snk@v3
-#         with:
-#           github_user_name: ${{ github.repository_owner }}
-#           outputs: dist/github-contribution-grid-snake.svg
+      - name: Generate Snake Contribution Grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
 
-#       - name: Push Snake Animation to Output Branch
-#         uses: peaceiris/actions-gh-pages@v3
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#           publish_branch: output
-#           publish_dir: ./dist
+      - name: Push Snake Animation to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
